@@ -37,6 +37,12 @@ Crie uma página web contendo um contador interativo com as seguintes funcionali
   - Azul → zero
 - Interface estilizada com CSS
 
+- * Limite máximo e mínimo
+* Sons nos botões
+* Modo escuro
+* Animações
+* Contador automático
+
 ---
 
 # 💻 Código Base da Atividade
@@ -170,3 +176,12 @@ Crie uma página web contendo um contador interativo com as seguintes funcionali
 
 </body>
 </html>
+
+O aluno deverá enviar:
+
+* Arquivo `.html`
+* Print da tela funcionando
+
+---
+
+
